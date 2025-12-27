@@ -2,7 +2,7 @@
 title: Game Developers
 description: A list of game developers featured in this Wiki.
 published: true
-date: 2025-12-27T07:03:02.013Z
+date: 2025-12-27T07:25:07.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T07:03:02.013Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-27T07:03:02.013Z
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;">
 
-  <a href="/en/pages/developers/landfall" style="text-decoration:none;">
+  <a href="/en/pages/developers/Landfall" style="text-decoration:none;">
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/landfall cover.jpg" alt="Landfall Games" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
