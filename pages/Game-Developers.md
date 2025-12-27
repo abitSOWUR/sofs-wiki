@@ -2,7 +2,7 @@
 title: Game Developers
 description: A list of game developers featured in this Wiki.
 published: true
-date: 2025-12-27T07:25:07.140Z
+date: 2025-12-27T07:29:16.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T07:03:02.013Z
@@ -10,16 +10,18 @@ dateCreated: 2025-12-27T07:03:02.013Z
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;">
 
-  <a href="/en/pages/developers/Landfall" style="text-decoration:none;">
+   <!-- Aggro Crab -->
+   <a href="/en/pages/developers/landfall" style="text-decoration:none;">
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
-      <img src="/pages/assets/landfall cover.jpg" alt="Landfall Games" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
+      <img src="/pages/assets/aggro crab cover.jpg" alt="Aggro Crab" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong>Landfall Games</strong><br>
+        <strong>Aggro Crab</strong><br>
         <span>1 game added</span>
       </div>
     </div>
   </a>
 
+  <!-- FromSoftware -->
    <a href="/en/pages/developers/landfall" style="text-decoration:none;">
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/fromsoftware cover.jpg" alt="FromSoftware" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
@@ -30,13 +32,19 @@ dateCreated: 2025-12-27T07:03:02.013Z
     </div>
   </a>
   
-   <a href="/en/pages/developers/landfall" style="text-decoration:none;">
+  <!-- Landfall Games -->
+  <a href="/en/pages/developers/Landfall" style="text-decoration:none;">
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
-      <img src="/pages/assets/aggro crab cover.jpg" alt="Aggro Crab" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
+      <img src="/pages/assets/landfall cover.jpg" alt="Landfall Games" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong>Aggro Crab</strong><br>
+        <strong>Landfall Games</strong><br>
         <span>1 game added</span>
       </div>
     </div>
   </a>
+
+
+  
+
+  
 </div>
