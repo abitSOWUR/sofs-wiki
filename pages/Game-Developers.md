@@ -2,7 +2,7 @@
 title: Game Developers
 description: A list of game developers featured in this Wiki.
 published: true
-date: 2025-12-27T07:37:26.261Z
+date: 2025-12-29T07:34:42.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T07:03:02.013Z
@@ -15,8 +15,8 @@ dateCreated: 2025-12-27T07:03:02.013Z
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/aggro crab cover.jpg" alt="Aggro Crab" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong style="color:black">Aggro Crab</strong><br>
-        <span style="color:black">1 guide added</span>
+        <strong style="color:white">Aggro Crab</strong><br>
+        <span style="color:white">1 guide added</span>
       </div>
     </div>
   </a>
@@ -26,8 +26,8 @@ dateCreated: 2025-12-27T07:03:02.013Z
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/jackbox_cover.jpg" alt="Jackbox Games" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong style="color:black">Jackbox Games</strong><br>
-        <span style="color:black">1 series added</span>
+        <strong style="color:white">Jackbox Games</strong><br>
+        <span style="color:white">1 series added</span>
       </div>
     </div>
   </a>
@@ -37,8 +37,8 @@ dateCreated: 2025-12-27T07:03:02.013Z
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/fromsoftware cover.jpg" alt="FromSoftware" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong style="color:black">FromSoftware</strong><br>
-        <span style="color:black">1 guide added</span>
+        <strong style="color:white">FromSoftware</strong><br>
+        <span style="color:white">1 guide added</span>
       </div>
     </div>
   </a>
@@ -48,8 +48,8 @@ dateCreated: 2025-12-27T07:03:02.013Z
     <div style="border: 2.5px solid #ddd; border-radius: 8px; overflow: hidden;">
       <img src="/pages/assets/landfall cover.jpg" alt="Landfall Games" style="width: 100%; aspect-ratio: 1/1; object-fit: cover;">
       <div style="padding: 8px; text-align: center;">
-        <strong style="color:black">Landfall Games</strong><br>
-        <span style="color:black">1 guide added</span>
+        <strong style="color:white">Landfall Games</strong><br>
+        <span style="color:white">1 guide added</span>
       </div>
     </div>
   </a>
