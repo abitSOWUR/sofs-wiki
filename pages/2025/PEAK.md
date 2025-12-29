@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T07:52:21.188Z
+date: 2025-12-29T07:58:44.875Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -18,11 +18,10 @@ dateCreated: 2025-12-27T05:02:34.194Z
 
 The game supports up to four players that can communicate via proximity chat with the objective being to climb a mountain following a crash landing on an unknown island. The map changes every 24 hours. Players must also maintain their own stamina bar, which is depleted as the player climbs the mountain by hunger, injury, and various other ailments. Players can revive their teammates through several methods, including the use of altars found at campsites, which serve as rest areas between levels. There are four of these levels, each a different biome with unique obstacles. Players can carry up to three items, and can use a backpack to carry up to four more. Upon completing the default difficulty, players are awarded an in-game cosmetic sash, and unlock harder difficulties.
 
-## Overlay Guide
+## Overlay Guide (Spoiler-Free)
 
 <img src="/pages/2025/assets/peak-ui-layout-new.png" style="border-radius:11px">
 
-Spoiler-Free Layout Guide
 
 The game's UI is easily avoidable thanks to it's very basic layout.
 
@@ -33,8 +32,10 @@ When looking at an interactable object, there will be a interaction prompt in th
 As long as you avoid the **bottom left and right**, and the **top-left**, you can place your streaming/recording overlays anywhere on screen without it interfering with gameplay elements.
 
 ---
+<div class="reveal-block">
+  <div class="reveal-cover"></div>
 <img src="/pages/2025/assets/elasticdroid-peak-screenshot.png" style="border-radius:11px">
-
+</div>
 ElasticDroid in the starting lobby of the game.
 
 Many streamers who have already streamed this game prior to this article have often placed their webcam in the middle-left/middle-right, with their chat below their webcam.
