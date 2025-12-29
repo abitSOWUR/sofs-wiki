@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T07:51:12.638Z
+date: 2025-12-29T07:52:21.188Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -20,7 +20,7 @@ The game supports up to four players that can communicate via proximity chat wit
 
 ## Overlay Guide
 
-<img src="/pages/2025/assets/peak-ui-layout-new.png">
+<img src="/pages/2025/assets/peak-ui-layout-new.png" style="border-radius:11px">
 
 Spoiler-Free Layout Guide
 
@@ -33,8 +33,7 @@ When looking at an interactable object, there will be a interaction prompt in th
 As long as you avoid the **bottom left and right**, and the **top-left**, you can place your streaming/recording overlays anywhere on screen without it interfering with gameplay elements.
 
 ---
-
-![](/pages/2025/assets/elasticdroid-peak-screenshot.png)
+<img src="/pages/2025/assets/elasticdroid-peak-screenshot.png" style="border-radius:11px">
 
 ElasticDroid in the starting lobby of the game.
 
