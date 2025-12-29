@@ -2,7 +2,7 @@
 title: Landfall Games' Releases
 description: Landfall Games is a game studio focusing on gameplay and community interaction above all else.
 published: true
-date: 2025-12-29T12:44:14.177Z
+date: 2025-12-29T12:45:26.067Z
 tags: landfall games
 editor: markdown
 dateCreated: 2025-12-27T07:12:11.906Z
@@ -12,9 +12,7 @@ dateCreated: 2025-12-27T07:12:11.906Z
 
 ## **About Studio**
 
-![](http://192.168.1.120:3000/pages/assets/landfall_games_logo.webp)
-
-Landfall Games Logo
+![](/pages/assets/landfall_games_logo.webp)
 
 (From Wikipedia, the free encyclopedia)
 
