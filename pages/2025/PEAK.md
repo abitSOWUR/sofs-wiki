@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T08:08:40.987Z
+date: 2025-12-29T08:12:14.159Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -38,6 +38,6 @@ As long as you avoid the **bottom left and right**, and the **top-left**, you ca
 
 Many streamers who have already streamed this game prior to this article have often placed their webcam in the middle-left/middle-right, with their chat below their webcam.
 
-For example. this is a content creator called ElasticDroid, where in this video (here), his camera is at the top right, with his Twitch chat below, and his Alert Box is in the top-centre of the screen (not visible in screenshot.)
+For example. this is a content creator called <a href="https://www.youtube.com/@ElasticDroid">ElasticDroid</a>, where in this video (here), his camera is at the top right, with his Twitch chat below, and his Alert Box is in the top-centre of the screen (not visible in screenshot.)
 
 <p style="font-size:11px;font-style:oblique"> Page written by SOWUR (@abitSOWUR). <br>All screenshots, Copyright and Trademarks go to their respective owners. </p>
