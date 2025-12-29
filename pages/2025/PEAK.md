@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T07:50:09.898Z
+date: 2025-12-29T07:51:12.638Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -20,7 +20,7 @@ The game supports up to four players that can communicate via proximity chat wit
 
 ## Overlay Guide
 
-![](/pages/2025/assets/peak-ui-layout-new.png)
+<img src="/pages/2025/assets/peak-ui-layout-new.png">
 
 Spoiler-Free Layout Guide
 
