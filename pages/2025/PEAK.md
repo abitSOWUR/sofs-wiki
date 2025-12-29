@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T07:58:44.875Z
+date: 2025-12-29T08:03:39.518Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -33,7 +33,6 @@ As long as you avoid the **bottom left and right**, and the **top-left**, you ca
 
 ---
 <div class="reveal-block">
-  <div class="reveal-cover"></div>
 <img src="/pages/2025/assets/elasticdroid-peak-screenshot.png" style="border-radius:11px">
 </div>
 ElasticDroid in the starting lobby of the game.
