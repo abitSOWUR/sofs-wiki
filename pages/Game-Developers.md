@@ -2,7 +2,7 @@
 title: Game Developers
 description: A list of game developers featured in this Wiki.
 published: true
-date: 2025-12-29T08:18:55.812Z
+date: 2025-12-29T08:19:14.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T07:03:02.013Z
@@ -55,3 +55,47 @@ dateCreated: 2025-12-27T07:03:02.013Z
   </a>
 
 </div>
+
+<script>
+(function() {
+  const cards = document.querySelectorAll(".dev-card[data-dev-tag]");
+  if (!cards.length) return;
+
+  function makeLabel(count) {
+    if (count === 1) return "1 guide added";
+    return count + " guides added";
+  }
+
+  cards.forEach(card => {
+    const tag = card.getAttribute("data-dev-tag");
+    const countEl = card.querySelector(".dev-card-count");
+    if (!tag || !countEl) return;
+
+    const query = `
+      query($tag: String!) {
+        pages(filter: { tags: [$tag] }) {
+          total
+        }
+      }
+    `;
+
+    fetch("/graphql", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query, variables: { tag } })
+    })
+    .then(res => res.json())
+    .then(data => {
+      const total = data && data.data && data.data.pages
+        ? (data.data.pages.total || 0)
+        : 0;
+
+      countEl.textContent = makeLabel(total);
+    })
+    .catch(err => {
+      console.error("Dev card count error:", err);
+      countEl.textContent = "0 guides added";
+    });
+  });
+})();
+</script>
