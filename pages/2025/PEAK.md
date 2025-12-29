@@ -2,7 +2,7 @@
 title: PEAK (2025)
 description: A co-op climbing game by Landcrab. (Landfall Games & Aggro Crab)
 published: true
-date: 2025-12-29T08:07:38.526Z
+date: 2025-12-29T08:08:40.987Z
 tags: 2025, landfall games, aggro crab
 editor: markdown
 dateCreated: 2025-12-27T05:02:34.194Z
@@ -31,7 +31,7 @@ When looking at an interactable object, there will be a interaction prompt in th
 
 As long as you avoid the **bottom left and right**, and the **top-left**, you can place your streaming/recording overlays anywhere on screen without it interfering with gameplay elements.
 
----
+## Example Overlay
 <div class="reveal-block">
 <img src="/pages/2025/assets/elasticdroid-peak-screenshot.png" style="border-radius:11px">
 </div>
